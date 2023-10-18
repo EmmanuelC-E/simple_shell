@@ -1,1 +1,1 @@
-A compilation of codes for the simple shell project by Emmanuel and Josephine
+A compilation of codes for the simple shell project by Emmanuel Egbuchilem and Josephine Borquaye
